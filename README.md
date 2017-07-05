@@ -70,7 +70,7 @@ rational_to_numeric(read_exif_tags(image_path)[["ApertureValue"]])
 ## If you need help with the EXIF format
 The following resources were particularly useful :
 
-* http://www.exiv2.org/Exif2-2.PDF
+* http://www.cipa.jp/std/documents/e/DC-008-2012_E.pdf
 * http://code.flickr.net/2012/06/01/parsing-exif-client-side-using-javascript-2/
 * http://www.media.mit.edu/pia/Research/deepview/exif.html
 
@@ -82,5 +82,5 @@ If this code is useful to you, please cite as :
 
 
 ```
-Charles A. Martin (2015). EXIFr: Natively read EXIF tags from R. R package version 0.0.0.9004. https://github.com/cmartin/EXIFr. DOI:10.5281/zenodo.34691
+Charles A. Martin (2015). EXIFr: Natively read EXIF tags from R. https://github.com/cmartin/EXIFr. DOI:10.5281/zenodo.34691. 
 ```
